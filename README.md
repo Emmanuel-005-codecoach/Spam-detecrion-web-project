@@ -1,1 +1,1 @@
-# Spam-detecrion-web-project
+# Spam-detection-web-project
